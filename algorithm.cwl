@@ -285,3 +285,7 @@
 \Function#/algorithm,algorithm*,procedure,procedure*,function,function*
 \begin{algorithmic}
 \end{algorithmic}
+
+# my
+\Require#/algorithm,algorithm*,procedure,procedure*,function,function*
+\Ensure#/algorithm,algorithm*,procedure,procedure*,function,function*
